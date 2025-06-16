@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: #0b162b;
+  background-color: #000000;
+}
+
+body {
+  margin: 0;
+  min-width: auto;
+  min-height: auto;
+  background-color: #79e5f8;
+}
