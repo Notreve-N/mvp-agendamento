@@ -12,7 +12,7 @@ function Pagamento() {
 
     // Simulação: Redirecionar para Bolt com delay
     setTimeout(() => {
-      window.location.href = 'https://incredible-swan-62a1bc.netlify.app/';
+      window.location.href = 'https://incredible-swan-62a1bc.netlify.app';
     }, 2000); // espera 2 segundos para simular processamento
   }, []);
 
