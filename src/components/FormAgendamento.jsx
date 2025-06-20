@@ -135,7 +135,7 @@ function FormAgendamento() {
 
       {/* Data e Hora */}
       <div>
-        <label className="block mb-1 font-medium">Data e Hora</label>
+        <label className="block mb-1 font-medium">Data e Hora da Consulta</label>
         <input
           name="dataConsulta"
           type="datetime-local"

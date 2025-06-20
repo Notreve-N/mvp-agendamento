@@ -2,8 +2,10 @@ import FormAgendamento from './components/FormAgendamento';
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center py-10 px-4">
-      <h1 className="text-4xl font-bold mb-6">CliniDental</h1>
+    <div
+      className="min-h-screen flex items-center justify-center bg-cover bg-center"
+      style={{ backgroundImage: 'url("/imgFund.png")' }}
+    >
       <FormAgendamento />
     </div>
   );
