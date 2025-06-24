@@ -5,6 +5,7 @@ import App from './App';
 import Pagamento from './pages/Pagamento';
 import Confirmacao from './pages/Confirmacao';
 import './index.css';
+import { Analytics } from '@vercel/analytics/react';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
