@@ -1,5 +1,5 @@
 import FormAgendamento from './components/FormAgendamento';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/next";
 
 function App() {
   return (
